@@ -1,6 +1,6 @@
-# mayank
+# Startup Name Generator
 
-A new Flutter project.
+A new Flutter project that generates random names of a startup.
 
 ## Getting Started
 
